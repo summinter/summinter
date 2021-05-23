@@ -1,5 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=summinter&count_private=true)](https://github.com/summinter/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=summinter)](https://github.com/summinter/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=summinter&hide=CMake,Makefile,Objective-C)](https://github.com/summinter/github-readme-stats)
 
 <!--
 **summinter/summinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
